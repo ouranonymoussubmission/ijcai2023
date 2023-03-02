@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": "--model_type e --latent_model heinonen --grid_size 100 --gp exact  --kernel matern32 --time_kernel matern32 --fold 2 --epochs 5 --lr 0.1 --optimizer lbfgsb  --mode train  --seed 2  --n_inducing 3000 --features ['latitude','longitude','temperature','pressure','humidity','wind_speed/kph','delta_t'] --rootdir results_london",
+            "justMyCode": true
+        }
+    ]
+}

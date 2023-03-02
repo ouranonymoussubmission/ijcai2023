@@ -1,0 +1,5 @@
+lr = 0.1
+epochs = 200
+optimizer = 'lbfgs' # 'lbfgs' or 'adam'
+seed = 0
+test_history = "true" # "true" or "false" # if true, model will be tested on the test set after each epoch

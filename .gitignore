@@ -1,0 +1,7 @@
+*.log
+*.pkl
+*.pyc
+*.flag
+
+# Downaload this file from official KDD cup 2018 website and place it in data folder
+London_historical_meo_grid.csv  

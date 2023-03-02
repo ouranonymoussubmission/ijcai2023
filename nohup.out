@@ -1,0 +1,3269 @@
+[30m[PID:[1m[30m3894522[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3894524[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3894526[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3894528[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3894528[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3900179[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3894526[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3901917[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3894524[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3903972[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3901917[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3906186[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3894522[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3907298[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3903972[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3907448[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3900179[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3909845[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3906186[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3911304[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3911304[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3913278[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3909845[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3914813[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3907448[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3916530[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3907298[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3918752[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3916530[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3919720[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3914813[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3921068[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3918752[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3922684[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3913278[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3924350[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3924350[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3925760[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3922684[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3926808[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3921068[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3927910[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3919720[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3929095[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3927910[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3930076[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3926808[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3931289[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3929095[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3932291[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3925760[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 0
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3933740[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3933740[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3935051[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3932291[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3936112[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3931289[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3937274[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3930076[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3938442[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3937274[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3939429[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3936112[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3939562[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3938442[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3941839[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3935051[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3943086[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3943086[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3944451[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3941839[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3945517[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3939562[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3946551[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3946551[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3947770[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3939429[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3948203[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3945517[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3949941[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3947770[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3951155[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3944451[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3952527[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3952527[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3953890[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3951155[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3954766[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3949941[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3955939[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3948203[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3957117[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3955939[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3958185[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3954766[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3959293[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3957117[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3960344[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3953890[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 1
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3961918[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3960344[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3963228[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3961918[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3963699[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3959293[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3965446[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3958185[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3967705[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3965446[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3969082[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3963699[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3969236[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3967705[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3971828[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3963228[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3972324[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3972324[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3975301[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3971828[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3977059[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3969236[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3978701[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3978701[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3981232[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3969082[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3981302[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3977059[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3983679[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3981232[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3985214[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3975301[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3986313[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3986313[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3988486[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3985214[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3990118[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3983679[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3991810[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3981302[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3993957[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3991810[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3995242[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3990118[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3996725[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3993957[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3997461[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3988486[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 2
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3999574[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3999574[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4001561[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3997461[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4002942[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3996725[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4004927[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m3995242[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4006959[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4002942[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4008236[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4004927[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4008964[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4006959[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4010952[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4001561[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 0 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4012545[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4012545[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4014605[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4010952[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4015979[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4008964[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4017677[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4008236[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4020096[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4017677[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4021253[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4015979[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4022686[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4020096[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4024117[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4014605[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 1 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4025808[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4025808[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4027813[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4024117[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4029238[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4022686[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4031088[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4021253[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type o
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4033254[0m][0m [1m[34m[RUN][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4031088[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 2000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4029238[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 3000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4033254[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 1000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+[30m[PID:[1m[30m4027813[0m][0m [1m[32m[SUCCESS][0m [2m[30mpython -u runner_london.py
+        --model_type e
+        --latent_model heinonen
+        --grid_size 100
+        --gp sparse 
+        --kernel matern32
+        --time_kernel matern32
+        --fold 3
+        --epochs 500
+        --lr 0.1
+        --optimizer lbfgsb 
+        --mode train 
+        --seed 2 
+        --n_inducing 4000
+        --features ["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]
+        --rootdir results_london
+        [0m
+
+[1m[30mJob is done![0m
+[32mSuccessfully completed [96/96][0m
+[31mFailed [0/96][0m
+[2m[30mSkipped [0/96][0m

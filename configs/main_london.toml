@@ -1,0 +1,47 @@
+cmd = '''python -u runner_london.py
+        --model_type {model_type}
+        --latent_model {latent_model}
+        --grid_size {grid_size}
+        --gp {gp} 
+        --kernel {kernel}
+        --time_kernel {time_kernel}
+        --fold {fold}
+        --epochs {epochs}
+        --lr {lr}
+        --optimizer {optimizer} 
+        --mode {mode} 
+        --seed {seed} 
+        --n_inducing {n_inducing}
+        --features {features}
+        --rootdir {rootdir}
+        '''
+
+# arguments to be handled internally: seed, features
+
+[[exp]]
+uid = './{rootdir}/{model_type}-{gp}-{latent_model}-grid-{grid_size}-ind-{n_inducing}-{kernel}-time-{time_kernel}/fold-{fold}/opt-{optimizer}-epochs-{epochs}-lr-{lr}'
+rootdir = "results_london"
+fold = [0, 1, 2, 3]
+
+seed = 0
+mode = "test"
+
+# seed = [0, 1, 2]
+# mode = "train"                                # ["train", "test"]
+
+gp = "sparse"                                   # ["exact", "sparse"]
+model_type = ["o", "e"]                                # ["e", "l", "ls", "lso"]
+latent_model = "heinonen"                       # ["heinonen", "delta", "gaussian", "plagemann"]
+grid_size = 100
+features = '["latitude","longitude","temperature","pressure","humidity","wind_speed","delta_t"]'  # "wind_direction" to be added later
+n_inducing = [4000, 3000, 2000, 1000]
+epochs = 500
+kernel = "matern32"
+time_kernel = "matern32"
+lr = 0.1
+optimizer = "lbfgsb"                            # ["adam", "lbfgsb", "bfgs"]
+
+[flags]
+restart = true
+num_proc = 4
+gpu_indices = ["0", "1", "2", "3"]

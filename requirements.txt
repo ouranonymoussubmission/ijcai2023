@@ -1,0 +1,7 @@
+# Manually install jax and jaxlib of your choice
+arviz
+regdata
+pyDOE2
+jaxopt
+jaxtyping
+optax
